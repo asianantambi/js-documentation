@@ -1,0 +1,33 @@
+/*body{
+	background-color: yellow;
+}*/
+
+/*styling the codes*/
+.code{
+	color: white;
+	background-color: #000000;
+	opacity: 0.4;
+	width: 500px;
+	padding: 0;
+}
+
+@media only screen and (max-width: 1000px)
+{
+	body{
+		display: none;
+	}
+}
+
+ /*<iframe src="demo_iframe.htm" style="border:2px solid grey;"></iframe>
+*/
+ .iframe1{
+ 	border: 6px solid black;
+ 	/*height: 500px;
+ 	width: 300px;*/
+ }
+
+ .iframe2{
+ 	border: 6px solid black;
+ 	/*height: 5000px;
+ 	width: 1000px;*/
+ }
